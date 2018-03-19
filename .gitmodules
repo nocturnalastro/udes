@@ -1,7 +1,7 @@
 [submodule "udes_api"]
 	path = udes_api
 	url = git@github.com:unipartdigital/udes_api.git
-	branch=repo_test
+	branch = repo_test
 [submodule "udes_core"]
 	path = udes_core
 	url = git@github.com:unipartdigital/udes_core.git
