@@ -1,0 +1,21 @@
+[submodule "udes_api"]
+	path = udes_api
+	url = git@github.com:unipartdigital/udes_api.git
+[submodule "udes_core"]
+	path = udes_core
+	url = git@github.com:unipartdigital/udes_core.git
+[submodule "blocked_locations"]
+	path = blocked_locations
+	url = git@github.com:unipartdigital/blocked_locations.git
+[submodule "warehouse_config"]
+	path = warehouse_config
+	url = git@github.com:unipartdigital/warehouse_config.git
+[submodule "package_hierarchy"]
+	path = package_hierarchy
+	url = git@github.com:unipartdigital/package_hierarchy.git
+[submodule "udes_report"]
+	path = udes_report
+	url = git@github.com:unipartdigital/udes_report.git
+[submodule "udes_transport_management"]
+	path = udes_transport_management
+	url = git@github.com:unipartdigital/udes_transport_management.git
