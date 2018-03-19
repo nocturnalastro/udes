@@ -1,6 +1,3 @@
-[submodule "udes_api"]
-	path = udes_api
-	url = git@github.com:unipartdigital/udes_api.git
 [submodule "udes_core"]
 	path = udes_core
 	url = git@github.com:unipartdigital/udes_core.git
@@ -19,3 +16,6 @@
 [submodule "udes_transport_management"]
 	path = udes_transport_management
 	url = git@github.com:unipartdigital/udes_transport_management.git
+[submodule "udes_api"]
+	path = udes_api
+	url = git@github.com:nocturnalastro/udes_api.git
