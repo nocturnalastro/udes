@@ -19,3 +19,4 @@
 [submodule "udes_api"]
 	path = udes_api
 	url = git@github.com:nocturnalastro/udes_api.git
+	branch = awesome_submodule_branch
